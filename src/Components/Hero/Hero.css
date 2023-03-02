@@ -10,11 +10,11 @@
 }
 
 .servicesicon{
-    font-size: calc(1.6rem + .4vw);
+    font-size: calc(1.7rem + .3vw);
     margin: 0;
 }
 .servicespara{
-    font-size: calc(.5rem + .5vw);
+    font-size: calc(.6rem + .4vw);
 }
 .serviceitem{
     cursor: pointer;

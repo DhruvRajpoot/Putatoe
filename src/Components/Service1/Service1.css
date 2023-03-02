@@ -11,8 +11,8 @@
     text-shadow: .5px 0;
     letter-spacing: 1px;
     text-align: center;
-    padding: calc(.3rem + .4vw) 0;
-    font-size: calc(1rem + .1vw);
+    padding: calc(.4rem + .3vw) 0;
+    font-size: 1.1rem;
 }
 
 .servicetype{

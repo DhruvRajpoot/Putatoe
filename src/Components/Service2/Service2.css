@@ -10,8 +10,8 @@
     text-shadow: .5px 0;
     letter-spacing: 1px;
     text-align: center;
-    padding: calc(.3rem + .4vw) 0;
-    font-size: calc(1rem + .1vw);
+    padding: calc(.4rem + .3vw) 0;
+    font-size: 1.1rem
 }
 
 .service2img {
@@ -27,7 +27,7 @@
     font-size: .9rem;
     z-index: 10;
     font-weight: bold;
-    text-shadow: .1px 0;
+    text-shadow: .5px 0;
     font-size: 1rem;
     letter-spacing: 1px;
     background: rgb(0, 0, 0);
