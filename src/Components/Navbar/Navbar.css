@@ -1,0 +1,55 @@
+nav{
+    background-color: #00838f;
+}
+
+.logoheading{
+    text-shadow: 1px 0;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+
+.logopara{
+    font-size: .7rem;
+    text-align: center;
+    font-weight: bold;
+}
+
+.searchicon{
+    color:  #00838f;
+    position: absolute;
+    left: 1rem;
+    top: 3.5px;
+    font-size: 1.2rem;
+}
+
+.searchinp{
+    padding: calc(.4rem + .2vw) 1rem calc(.4rem + .2vw) 3rem;
+    font-size: .8rem;
+    font-weight: 600;
+    letter-spacing: .5px;
+    color: rgb(234, 234, 234);
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    width: calc(15rem + 10vw);
+}
+
+.locationpara{
+    font-size: calc(.7rem + .3vw);
+}
+
+.icon{
+    font-size: calc(1rem + .3vw);
+    color: white;
+    margin-right: calc(-1rem + 1vw);
+}
+
+.badge{
+    font-size: calc(.6rem + .1vw);
+}
+
+@media (max-width:350px) {
+    .container-fluid{
+        padding: 0;
+    }
+}

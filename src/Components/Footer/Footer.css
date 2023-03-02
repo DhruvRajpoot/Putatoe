@@ -1,0 +1,39 @@
+.footerwrapper{
+    position: fixed;
+    bottom: 0;
+    background: white;
+    box-shadow: 0 -1px 2px 1px #00838f1d;
+    width: 100%;
+    padding: .1rem 1rem;
+    color: #006d77;
+    z-index: 99;
+}
+
+.footerimg{
+    background-color: #0195a2;
+    display: flex;
+    align-items: center;
+    padding: 0px 5px;
+    border-radius: 7px;
+}
+
+.footericon{
+    font-size: 1.3rem;
+    margin-bottom: 0;
+}
+.footertext{
+    font-size: .7rem;
+    margin-bottom: 0;
+    text-shadow: .1px 0;
+    letter-spacing: .1px;
+}
+
+.fixedbtnicon{
+    position: fixed;
+    bottom: 4rem;
+    right: 1.5rem;
+    border-radius: 50%;
+    padding: .7rem .8rem;
+    background-color: #02695f;
+    box-shadow: 0 1px 1px .1px rgba(0, 0, 0, 0.327);
+}

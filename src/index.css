@@ -1,0 +1,9 @@
+body{
+    font-family: Raleway;
+    background-color: #00838f1d;
+}
+
+::-webkit-scrollbar{
+    background-color: transparent;
+    width: 0;
+}
