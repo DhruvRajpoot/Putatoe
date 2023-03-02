@@ -31,9 +31,9 @@
 .fixedbtnicon{
     position: fixed;
     bottom: 5rem;
-    right: 1rem;
+    right: 1.5rem;
     border-radius: 50%;
-    padding: .5rem .6rem;
+    padding: .6rem .7rem;
     background-color: #02695f;
     box-shadow: 0 1px 1px .1px rgba(0, 0, 0, 0.327);
 }
